@@ -26,7 +26,8 @@
 
 - 2023년 11월 16일 ~ 2023년 11월 23일 (8일)👋
 
-![개발 일정 간트차트](C:\Users\SSAFY\Desktop\개발 일정 간트차트.png)
+![간트차트](https://github.com/JeongJonggil/finalpjt_semester1/assets/139416006/22ab7190-8a5b-4b6b-b5da-132259c0b377)
+
 
 # **🤝 팀 구성 및 업무 분담 내역**
 
@@ -65,16 +66,17 @@
 
 # 컴포넌트 구조
 
-![수길이네 컴포넌트 구조](C:\Users\정종길\Desktop\진짜 pjt\pjt 관련 파일\수길이네 컴포넌트 구조.PNG)
+![컴포넌트 구조](https://github.com/JeongJonggil/finalpjt_semester1/assets/139416006/926efaf7-0c04-472b-bd93-fb00a3e20860)
+
 
 # ERD
 
 - 유저 - 게시판 - 댓글
 - 유저 - Quiz model (하루에 퀴즈를 한 번만 풀 수 있도록 퀴즈를 푼 기록 저장)
 
-![수길이네 ERD-1](C:\Users\SSAFY\Desktop\GitHUb\finalpjt\pjt 관련 파일\수길이네 ERD-1.PNG)
+![ERD-1](https://github.com/JeongJonggil/finalpjt_semester1/assets/139416006/4fec790c-f110-4370-ac0c-872695eb8402)
+![ERD-2](https://github.com/JeongJonggil/finalpjt_semester1/assets/139416006/fdefb635-0386-4934-ab77-1d996a8c47ee)
 
-![수길이네 ERD-2](C:\Users\SSAFY\Desktop\GitHUb\finalpjt\pjt 관련 파일\수길이네 ERD-2.PNG)
 
 ### 🧾개발일지
 
